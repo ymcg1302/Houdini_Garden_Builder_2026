@@ -1,1 +1,25 @@
-# ymcg1302-Houdini_Garden_Builder_2026
+# Houdini Garden Builder 2026
+
+**Ysabel Maria Cartago Garcia**  
+Student ID: 5700252
+
+> Repository containing research, ideation, planning, and documentation for the CGI Techniques Project for Sep 2026 - January 2027.
+
+## Project Navigation
+
+### Stage 1: Ideation
+
+| Document | Description |
+|-----------|-------------|
+| [01_Ideation_Stage.md](01_Ideation_Stage.md) | Initial ideas, research, and pipeline methods |
+---
+
+<img src="https://media.giphy.com/media/MGdfeiKtEiEPS/giphy.gif" width="250" align="right">
+
+
+<ins>**Questions to Ask Phil:<ins>**
+
+* How much novelty is expected?
+* Is this sufficiently scoped?
+* To what extent does it or _does not_ fulfill the brief?
+* Any other technical considerations about this project I should take note of?  
