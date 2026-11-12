@@ -24,6 +24,8 @@ The idea is much more simplified. Honing in on the _Alice in Wonderland_ or _che
 * A checkboard garden floor with alternating between grass and stone (could potentially be made with a version of an Alpha Map).
 * Roses either on the hedges, borders, or in between = this may be either a _Stretch Goal_ or a _Decorative Element_ as this is more about generation and propagation while the other two aspects of the project are more setup and structure focused.
 
+<img width="2500" height="1509" alt="Houdini_Chess_Garden(2)" src="https://github.com/user-attachments/assets/4d3a0385-a6fd-4681-aa05-66a643b54a6d" />
+
 ### Sources and Guides
 
   _**I understand that I will not use them all, but they are here for my future reference as well.**_
