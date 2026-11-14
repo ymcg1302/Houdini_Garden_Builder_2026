@@ -11,11 +11,11 @@ Student ID: 5700252
 
 | Document | Description |
 |-----------|-------------|
-| [01_Ideation_Stage.md](01_Ideation_Stage.md) | Initial ideas, research, and pipeline methods |
+| [01_Ideation_Stage](01_Ideation_Stage.md) | Initial ideas, research, and pipeline methods |
+| [02_Intial_Testing](02_Initial_Testing.md) | Initial testing, AI feedback, implementation and takeaways |
 ---
 
 <img src="https://media.giphy.com/media/MGdfeiKtEiEPS/giphy.gif" width="250" align="right">
-
 
 <ins>**Questions to Ask Phil:<ins>**
 
