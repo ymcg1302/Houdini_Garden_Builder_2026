@@ -32,7 +32,7 @@ The idea is much more simplified. Honing in on the _Alice in Wonderland_ or _che
 
   <img width="677" height="375" alt="image" src="https://github.com/user-attachments/assets/fa4743b5-3569-49bb-9957-a91eaf6d3c2d" />
   
-  Initial test done by Phil in class
+  Initial test done by Phil in class, see more of the initial testing done [here]().
 
   * More Guides and Examples
      * https://share.google/aimode/rD1p1vzKLQZEbpCBU
