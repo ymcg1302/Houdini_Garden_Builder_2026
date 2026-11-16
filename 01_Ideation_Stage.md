@@ -15,7 +15,6 @@ My initial idea was to create a Garden Season Changer as shown below based on th
   * <ins>Fall</ins> = a sparser landscape with yellow, orange, and brown colored hues for the grass, vines, including fallen leaves from the vines, trees, and bushes
   * <ins>Winter</ins> = featuring an almost barren setting with stick-like branches and bushes and an empty trellis cover with white powder signifying snow
 
-<img width="5000" height="4006" alt="Houdini_Project_2026" src="https://github.com/user-attachments/assets/5971f571-5a0e-402b-b2f3-728cb76dc8f2" />
 
 ---
 
@@ -31,7 +30,8 @@ The idea is much more simplified. Honing in on the _Alice in Wonderland_ or _che
   * a rabbit
   * ideas that need confirmation: card suits, cards, clocks, hats, teacups, eat me or drink me bottle stoppers 
 
-<img width="2500" height="1509" alt="Houdini_Chess_Garden(2)" src="https://github.com/user-attachments/assets/4d3a0385-a6fd-4681-aa05-66a643b54a6d" />
+<img width="5000" height="2883" alt="Houdini_Chess_Garden(1)" src="https://github.com/user-attachments/assets/f6d28f6f-a1e3-429b-8bc1-ba582c62e141" />
+
 
 ### Sources and Guides
 
