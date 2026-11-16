@@ -4,6 +4,8 @@
 
 **10/11/26, 22:33 pm**
 
+**16/11/26, 15:34 pm** 
+
 ## Ideation and Initial Pipeline
 
 My initial idea was to create a Garden Season Changer as shown below based on the project brief [here](https://brightspace.bournemouth.ac.uk/d2l/le/lessons/675123/topics/2488367). It would include the following: 
@@ -23,6 +25,11 @@ The idea is much more simplified. Honing in on the _Alice in Wonderland_ or _che
 * Hedges shaped either like chess pieces or the desired card suits (examples [here](https://lesterbanks.com/2024/01/how-to-make-a-simple-procedural-hedge-with-houdini/) and [here](https://cdn.thefastcode.com/article/grow-plants-in-houdini?__cf_chl_tk=QzDg4W_gKi5jRBGoBu4dNUkU6VB89Wk8M5s3bT651bQ-1794267070-1.0.1.1-OlOSAMlB3kK7S87GYjRHK74zOqb_q5Usg0z3EUrmfHo).
 * A checkboard garden floor with alternating between grass and stone (could potentially be made with a version of an Alpha Map).
 * Roses either on the hedges, borders, or in between = this may be either a _Stretch Goal_ or a _Decorative Element_ as this is more about generation and propagation while the other two aspects of the project are more setup and structure focused.
+* <ins>According to the brief, there should be 5 elements not 3, so I need two or three more elements, this will include:</ins>
+
+  * mushrooms
+  * a rabbit
+  * ideas that need confirmation: card suits, cards, hats, teacups, eat me or drink me bottle stoppers 
 
 <img width="2500" height="1509" alt="Houdini_Chess_Garden(2)" src="https://github.com/user-attachments/assets/4d3a0385-a6fd-4681-aa05-66a643b54a6d" />
 
