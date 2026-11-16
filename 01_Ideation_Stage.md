@@ -29,7 +29,7 @@ The idea is much more simplified. Honing in on the _Alice in Wonderland_ or _che
 
   * mushrooms
   * a rabbit
-  * ideas that need confirmation: card suits, cards, hats, teacups, eat me or drink me bottle stoppers 
+  * ideas that need confirmation: card suits, cards, clocks, hats, teacups, eat me or drink me bottle stoppers 
 
 <img width="2500" height="1509" alt="Houdini_Chess_Garden(2)" src="https://github.com/user-attachments/assets/4d3a0385-a6fd-4681-aa05-66a643b54a6d" />
 
