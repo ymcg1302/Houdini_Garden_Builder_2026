@@ -68,11 +68,10 @@ https://copilot.cloud.microsoft/chat/share/eyJzaGFyZUlkIjoiZjI4Mjc4YjUtNzNjNC00O
 <img width="485" height="394" alt="Screenshot 2026-11-17 000317" src="https://github.com/user-attachments/assets/2955ff8b-92da-44a6-a933-9ca0a8b9af54" />
 <img width="485" height="354" alt="Screenshot 2026-11-17 000542" src="https://github.com/user-attachments/assets/5a02f096-8001-497d-a976-be7087935ecc" />
 
-
 ## Lessons Learned
 
 ## Takeaways and Next Steps
 
+* Adding color variation = scatter points scaled up and reduce points
 
-
-<ins></ins>
+<ins>**Links for Learning the Next Aspects**</ins>
