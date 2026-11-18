@@ -28,6 +28,11 @@ https://share.gemini.google/SGTlweHmAPBK
 
 https://copilot.cloud.microsoft/chat/share/eyJzaGFyZUlkIjoiZjI4Mjc4YjUtNzNjNC00ODg2LWE2YWEtNjQ2MmU4MGNiNzk5IiwiY29udmVyc2F0aW9uSWQiOiJiYWYyYTA4ZS0yNGIxLTQxZWQtYTE4MC05NzA5ODVlZGY1ODUifQ%3D%3D
 
+* Topiary guides and areas of consideration:
+* Silhouette, shape, texture
+
+<img width="937" height="695" alt="topiary" src="https://github.com/user-attachments/assets/e5fbcbd4-b9a3-4f43-aa84-3b4d84c23084" />
+
 <img width="470" height="367" alt="Screenshot 2026-11-17 000556" src="https://github.com/user-attachments/assets/0cd80ed9-77d8-48a1-83f4-80e3be6ce3fa" />
 <img width="425" height="236" alt="Screenshot 2026-11-17 001046" src="https://github.com/user-attachments/assets/a3df3bcc-9db7-4248-9468-d46e92986940" />
 <img width="423" height="263" alt="Screenshot 2026-11-17 001211" src="https://github.com/user-attachments/assets/c54f5c6f-f762-43d3-bb94-4258fc4cd6ac" />
@@ -84,4 +89,4 @@ https://copilot.cloud.microsoft/chat/share/eyJzaGFyZUlkIjoiZjI4Mjc4YjUtNzNjNC00O
 * [Bunny](https://youtu.be/5Zw7tiKfeus?si=eD1kW2ZCg4U9U0q4)
 * [Copy to Points](https://youtu.be/OMJH1VCvhUM?si=TxAS3lbe3RurE-_b)
 * [Flower bloom, extra animation](https://youtu.be/ZNUK_-U1eXE?si=ZG3VWpRqhAjsQXUM)
-* 
+
