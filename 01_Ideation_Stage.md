@@ -30,8 +30,7 @@ The idea is much more simplified. Honing in on the _Alice in Wonderland_ or _che
   * a rabbit
   * ideas that need confirmation: card suits, cards, clocks, hats, teacups, eat me or drink me bottle stoppers 
 
-<img width="5000" height="2883" alt="Houdini_Chess_Garden(1)" src="https://github.com/user-attachments/assets/f6d28f6f-a1e3-429b-8bc1-ba582c62e141" />
-
+<img width="2500" height="1413" alt="Houdini_Chess_Garden (4)" src="https://github.com/user-attachments/assets/26c9a07d-fc44-4797-9838-003f5f501fcc" />
 
 ### Sources and Guides
 
