@@ -75,3 +75,12 @@ https://copilot.cloud.microsoft/chat/share/eyJzaGFyZUlkIjoiZjI4Mjc4YjUtNzNjNC00O
 * Adding color variation = scatter points scaled up and reduce points
 
 <ins>**Links for Learning the Next Aspects**</ins>
+
+* [Mushrooms](https://youtu.be/m0vo2Msh068?si=E0WTeivkJWq05HFz)
+* [Rose](https://vimeo.com/307573320)
+* [Rose tut YT Version](https://youtu.be/l0gpSV3-fGw?si=_h_X_rbwCm1Akn3b)
+* [Rose extra](https://vimeo.com/348072500)
+* [Bunny](https://youtu.be/5Zw7tiKfeus?si=eD1kW2ZCg4U9U0q4)
+* [Copy to Points](https://youtu.be/OMJH1VCvhUM?si=TxAS3lbe3RurE-_b)
+* [Flower bloom, extra animation](https://youtu.be/ZNUK_-U1eXE?si=ZG3VWpRqhAjsQXUM)
+* 
