@@ -6,7 +6,7 @@
 
 ## Initial Testing Phase
 
-### Test 1 Grass and Chess Board Stone Generation
+### Test 1: Grass and Chess Board Stone Generation
 
 https://share.gemini.google/wdTXIWu3jIZo
 
@@ -22,7 +22,7 @@ Detaching and reattaching the Grid2 node to test the scale of the underlying Gra
 <img width="1326" height="631" alt="image" src="https://github.com/user-attachments/assets/aa70ce03-ced0-4abf-af34-4c02d1a8d1bd" />
 <img width="1348" height="682" alt="image" src="https://github.com/user-attachments/assets/2e64d6b5-22c5-4298-a6b9-47aa770c55d5" />
 
-### 3D Chess Piece Generation and Procedural Hedge Generation
+### Test 2: 3D Chess Piece Generation and Procedural Hedge Generation
 
 https://share.gemini.google/SGTlweHmAPBK
 
@@ -72,6 +72,8 @@ https://copilot.cloud.microsoft/chat/share/eyJzaGFyZUlkIjoiZjI4Mjc4YjUtNzNjNC00O
 <img width="812" height="440" alt="Screenshot 2026-11-16 235933" src="https://github.com/user-attachments/assets/ac3501f7-8899-447c-8424-09db71b92d02" />
 <img width="485" height="394" alt="Screenshot 2026-11-17 000317" src="https://github.com/user-attachments/assets/2955ff8b-92da-44a6-a933-9ca0a8b9af54" />
 <img width="485" height="354" alt="Screenshot 2026-11-17 000542" src="https://github.com/user-attachments/assets/5a02f096-8001-497d-a976-be7087935ecc" />
+
+## Test 3: Card Suit Hedge Generation (Trace SOP)
 
 ## Lessons Learned
 
