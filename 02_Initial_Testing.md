@@ -85,6 +85,7 @@ Detaching and reattaching the Grid2 node to test the scale of the underlying Gra
 <img width="1546" height="483" alt="image" src="https://github.com/user-attachments/assets/5865ede6-9782-499a-9a13-e4e2b7573fbe" />
 <img width="1312" height="524" alt="image" src="https://github.com/user-attachments/assets/598134af-7722-4f04-928b-59c6789ac04b" />
 <img width="1361" height="459" alt="image" src="https://github.com/user-attachments/assets/3e1114d6-5c15-4bda-b48c-c10c0d1b844e" />
+<img width="1438" height="489" alt="image" src="https://github.com/user-attachments/assets/01672dd8-43d6-4fd1-8ed0-dd10ca91a85e" />
 
 
 ## Lessons Learned
