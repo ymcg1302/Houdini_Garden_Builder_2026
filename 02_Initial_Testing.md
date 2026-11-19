@@ -75,6 +75,9 @@ https://copilot.cloud.microsoft/chat/share/eyJzaGFyZUlkIjoiZjI4Mjc4YjUtNzNjNC00O
 
 ## Test 3: Card Suit Hedge Generation (Trace SOP)
 
+<img width="1418" height="590" alt="image" src="https://github.com/user-attachments/assets/7dd345ea-2886-4d52-b709-003cd3feb49a" />
+
+
 ## Lessons Learned
 
 ## Takeaways and Next Steps
