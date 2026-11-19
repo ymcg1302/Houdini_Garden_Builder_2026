@@ -8,7 +8,7 @@
 
 ### Test 1: Grass and Chess Board Stone Generation
 
-https://share.gemini.google/wdTXIWu3jIZo
+[AI Chat](https://share.gemini.google/wdTXIWu3jIZo)
 
 <img width="1384" height="754" alt="image" src="https://github.com/user-attachments/assets/f1194e27-27eb-4353-b7b2-fa1d235e2655" />
 
@@ -24,9 +24,9 @@ Detaching and reattaching the Grid2 node to test the scale of the underlying Gra
 
 ### Test 2: 3D Chess Piece Generation and Procedural Hedge Generation
 
-https://share.gemini.google/SGTlweHmAPBK
+[AI Chat 1](https://share.gemini.google/SGTlweHmAPBK)
 
-https://copilot.cloud.microsoft/chat/share/eyJzaGFyZUlkIjoiZjI4Mjc4YjUtNzNjNC00ODg2LWE2YWEtNjQ2MmU4MGNiNzk5IiwiY29udmVyc2F0aW9uSWQiOiJiYWYyYTA4ZS0yNGIxLTQxZWQtYTE4MC05NzA5ODVlZGY1ODUifQ%3D%3D
+[AI Chat 2](https://copilot.cloud.microsoft/chat/share/eyJzaGFyZUlkIjoiZjI4Mjc4YjUtNzNjNC00ODg2LWE2YWEtNjQ2MmU4MGNiNzk5IiwiY29udmVyc2F0aW9uSWQiOiJiYWYyYTA4ZS0yNGIxLTQxZWQtYTE4MC05NzA5ODVlZGY1ODUifQ%3D%3D)
 
 * Topiary guides and areas of consideration:
 * Silhouette, shape, texture
@@ -74,6 +74,8 @@ https://copilot.cloud.microsoft/chat/share/eyJzaGFyZUlkIjoiZjI4Mjc4YjUtNzNjNC00O
 <img width="485" height="354" alt="Screenshot 2026-11-17 000542" src="https://github.com/user-attachments/assets/5a02f096-8001-497d-a976-be7087935ecc" />
 
 ## Test 3: Card Suit Hedge Generation (Trace SOP)
+
+[AI Chat](https://copilot.cloud.microsoft/chat/share/eyJzaGFyZUlkIjoiZjUxZmUyZDctZGY1My00OGQxLTkzYmMtNTFjZGNiMTRiNjBkIiwiY29udmVyc2F0aW9uSWQiOiJhNjU4MWU5ZS1iZDFkLTRlZTYtYjZjYS1mNTU5MmI0NGFhNGEifQ%3D%3D)
 
 #### Method 1: PolyFill
 
