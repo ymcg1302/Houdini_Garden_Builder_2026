@@ -75,6 +75,8 @@ https://copilot.cloud.microsoft/chat/share/eyJzaGFyZUlkIjoiZjI4Mjc4YjUtNzNjNC00O
 
 ## Test 3: Card Suit Hedge Generation (Trace SOP)
 
+#### Method 1: PolyFill
+
 <img width="1418" height="590" alt="image" src="https://github.com/user-attachments/assets/7dd345ea-2886-4d52-b709-003cd3feb49a" />
 <img width="1498" height="591" alt="image" src="https://github.com/user-attachments/assets/efdbfe6e-7ab7-4bd8-b68d-a076d40a248e" />
 <img width="1358" height="597" alt="image" src="https://github.com/user-attachments/assets/afc55b6a-ea15-4584-8c58-0cddeeb6cdbc" />
