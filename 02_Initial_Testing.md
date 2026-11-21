@@ -130,4 +130,6 @@ After working on about 3 Digital Assets, I felt that I learned a few things from
 * [Copy to Points](https://youtu.be/OMJH1VCvhUM?si=TxAS3lbe3RurE-_b)
 * [Flower bloom, extra animation](https://youtu.be/ZNUK_-U1eXE?si=ZG3VWpRqhAjsQXUM)
 
-<ins>**Quick Checklist of What has been done so far and a quick timeline for the next steps**</ins>
+<ins>**Quick Progress Check and Timeline**</ins>
+
+
