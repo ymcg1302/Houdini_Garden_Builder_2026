@@ -141,4 +141,16 @@ Assets
 - [ ] (4) Roses
 - [ ] (5) A Bunny
 
+Timeline (Before Break)
+- [ ] Week 1: 11/29 - 12/05
+- [ ] Week 2: 12/06 - 12/12
+- [ ] Week 3: 12/13 - 12/19
+
+Timeline (During/After Break) = TBD
+- [ ] Chess Topiary Refinement
+- [ ] Card Suit Hedge Refinement
+- [ ] Bunny Refinement
+- [ ] Assembly
+- [ ] Report
+- [ ] Documentation
 
