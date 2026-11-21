@@ -134,6 +134,11 @@ After working on about 3 Digital Assets, I felt that I learned a few things from
 ### Quick Progress Check and Timeline
 
 Assets
-- [ ] dddd
+- [X] Ground chess board
+- [X] (1) Chess Topiary Pieces
+- [X] (2) Card Suit Topiary/Hedges
+- [ ] (3) Mushrooms
+- [ ] (4) Roses
+- [ ] (5) A Bunny
 
 
