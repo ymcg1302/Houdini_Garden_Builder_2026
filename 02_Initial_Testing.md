@@ -98,7 +98,7 @@ After working on about 3 Digital Assets, I felt that I learned a few things from
 
 <div align="center">
   
-**Pipeline Adjustment**
+<ins>**Pipeline Adjustment**</ins>
 
 (Stage 1) ideation and finalising assets
 
@@ -130,6 +130,6 @@ After working on about 3 Digital Assets, I felt that I learned a few things from
 * [Copy to Points](https://youtu.be/OMJH1VCvhUM?si=TxAS3lbe3RurE-_b)
 * [Flower bloom, extra animation](https://youtu.be/ZNUK_-U1eXE?si=ZG3VWpRqhAjsQXUM)
 
-<ins>**Quick Progress Check and Timeline**</ins>
+###Quick Progress Check and Timeline
 
 
