@@ -87,12 +87,37 @@ Detaching and reattaching the Grid2 node to test the scale of the underlying Gra
 <img width="1361" height="459" alt="image" src="https://github.com/user-attachments/assets/3e1114d6-5c15-4bda-b48c-c10c0d1b844e" />
 <img width="1438" height="489" alt="image" src="https://github.com/user-attachments/assets/01672dd8-43d6-4fd1-8ed0-dd10ca91a85e" />
 
-
-## Lessons Learned
-
 ## Takeaways and Next Steps
 
+After working on about 3 Digital Assets, I felt that I learned a few things from the Houdini Pipeline and from Phil, our module leader. Some of that includes:
+
 * Adding color variation = scatter points scaled up and reduce points
+* Knowing when less is more (see advice from Phil below)
+* Recognising that thanks to past experience using DCC's like Adobe Substance Painter and Photoshop, working procedurally in layers is not unfamiliar. What I need to develop in is knowing more about the nodes themselves and the VEX expressions to improve parts of my workflow to accommodate complexity when I need to.
+* That being said, I feel that an appropriate pipeline for this project is the following:
+
+<div align="center">
+  
+**Pipeline Adjustment**
+
+(Stage 1) ideation and finalising assets
+
+↓
+                            
+(Stage 2) getting all assets to the same level of complexity = creation and development (and feedback) 
+
+↓
+
+(Stage 3) testing out assembly alongside creating help cards and documentation
+
+↓
+                            
+(Stage 5) final assembly and adjusting as needed 
+
+↓
+                            
+(Stage 6) Final render, compilation and uploading 
+</div>
 
 <ins>**Links for Learning the Next Aspects**</ins>
 
